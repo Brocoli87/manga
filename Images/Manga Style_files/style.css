@@ -1,0 +1,18 @@
+body{ background-color:#78689E;
+	padding: 150px;}
+
+
+h1 {
+	color:#623900;
+	text-align: center;
+
+}
+h2 {color: white;text-align: center;}
+p { color: yellow;text-align: center;}
+
+  img { width: 800px ; height: 800px; object-fit: cover;}
+  .big-size{width: 2500px ; height: 1650px; object-fit: cover;
+
+  }
+.Small-size{width: 940px ; height: 531px; object-fit: cover;
+

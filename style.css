@@ -1,0 +1,75 @@
+body{ background-color:#E7F011;
+	padding: 150px;font-family: 'Roboto', sans-serif;}
+
+
+h1 {
+	color:red;
+	text-align: center;
+
+}
+h2 {color: black;text-align: center;}
+p { color: black;text-align: center;}
+
+ 
+.big-size{width:500px ; height: 200px; object-fit: cover;}
+.Small-size{width: 30% ; height: 50%; object-fit: cover;}
+
+
+
+	.elements-center {
+	text-align: center;
+}
+
+	div 
+		{background-color:white ;
+		padding-top: 50px;
+		padding-right: 50px;
+		padding-left: 50px;
+		margin-bottom: 30px;
+		border: 2px solid #524233;
+	}
+.navigation-aligned{ 
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+a{
+	color: darkred;
+	text-decoration: none;
+}
+ 
+a:hover {
+	color: hotpink;
+	font-size: 22px;
+	font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
